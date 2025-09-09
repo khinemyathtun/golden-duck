@@ -43,9 +43,7 @@ a:hover{
     text-decoration: underline;
 }
 section{
-    padding: 0%;
-    text-align: ;
-    color: ;
+    padding: 20px;
     margin:0px 20%;
     background-color: #fff;
 }
@@ -56,6 +54,16 @@ section p{
     padding: 40px;
     line-height: 30px;
 }
+table{
+    width: 60%;
+    border: 1px solid #ccc;
+}
+tr:hover{
+    background-color: antiquewhite;
+    color: black;
+    font-size: 18px;
+}
+
 footer{
     margin:0px 20%;
     background-color: #892143;
